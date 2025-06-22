@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fff;
+  color: #333;
+}
+header {
+  background: #1a1a1a;
+  padding: 1rem;
+  color: #f26522;
+}
+nav a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+.hero {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f4f4f4;
+}
